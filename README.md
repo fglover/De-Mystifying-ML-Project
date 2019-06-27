@@ -23,4 +23,4 @@ Tableau
 
 ML:
 
-Sci-Kit Learn for prediction. 
+Sci-Kit Learn for prediction and classification. 
